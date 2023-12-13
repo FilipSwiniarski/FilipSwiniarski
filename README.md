@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipSwiniarski
 - 👀 I’m interested in e-sports and traveling
-- 🌱 I’m on my way to become a front-end developer!
+- 🌱 I’m working as a front-end developer!
 - 📫 You can reach me in DM
 
 <!---
